@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 👋 Hi, I’m @Prashanth.<br>- 👨‍💻 Full Stack Developer <br>- 👀 I’m interested in Web & App Development<br># 📫 How to reach me<br>-     ✉MAIL:prashanthmadduri1@gmail.com<br>-     🎮Discord ```Prashanth2k1```<br>- 🔭  <br>- 🌱 <br><br>
+ - 👋 Hi, I’m @Prashanth.<br>- 👨‍💻 Full Stack Developer <br>- 👀 I’m interested in Web & App Development<br>  📫 How to reach me<br>-     ✉MAIL:prashanthmadduri1@gmail.com<br>-     🎮Discord ```Prashanth2k1```<br>- 🔭  <br>- 🌱  <br>- ♂️ 
 
 
 ## 🌐 Socials:
